@@ -1,0 +1,3 @@
+- 👀 Currently learning Rust and React
+- 💻 Currently working with Cache Object Script and Intersystems technologies
+- 📫 lfpires04@outlook.com
