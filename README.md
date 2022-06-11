@@ -1,3 +1,3 @@
-- 👀 Estudando Rust e React atualmente.
 - 💻 Atualmente trabalhando com  COS (Cache Object Script) tecnologias Intersystems.
+- Interessado por RUST (WebAssembly) e tecnologias web (JS - React, CSS, HTML)
 - 📫 lfpires04@outlook.com
