@@ -7,9 +7,4 @@ COS (Cache Object Script) e tecnologias **Intersystems**.
 RUST (WebAssembly) e tecnologias web (JS - React, CSS, HTML)
 
 
-
-```mermaid
-graph LR
-A[Me] -- :coffee: ----> B[Code]
-B -- :beetle: ----> A[Me]
-```
+☕ 🪲 ⛰️
