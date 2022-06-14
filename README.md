@@ -7,4 +7,4 @@ COS (Cache Object Script) e tecnologias **Intersystems**.
 Rust (WebAssembly) e tecnologias web (JS - React, CSS, HTML)
 
 
-☕ 🪲 ⛰️
+☕ ⛰️
