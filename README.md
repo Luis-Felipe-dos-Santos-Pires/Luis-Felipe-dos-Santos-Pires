@@ -1,10 +1,10 @@
 # Sobre mim
 
 ### Atuando profissionalmente com:
-COS (Cache Object Script) e tecnologias **Intersystems**.
+HTML, CSS, Javascript e COS (Cache Object Script - **Intersystems**).
 
 ### Interessado por:
-Rust (WebAssembly) e tecnologias web (JS - React, CSS, HTML)
+Rust (WebAssembly) e tecnologias web (JS - React, CSS, HTML).
 
 
 ☕ ⛰️
